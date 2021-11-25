@@ -1,12 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse project
 
-> One paragraph statement about the project.
+> This is my small web project that I master all of the tools (Linters for HTML and CSS) and best practices (Github Flow) I learned about in previous steps during the Microverse program. 
 
-![screenshot](./app_screenshot.png)
-
-This is my small web project that I master all of the tools (Linters for HTML and CSS) and best practices (Github Flow) I learned about in previous steps during the Microverse programm 
 
 ## Built With
 
