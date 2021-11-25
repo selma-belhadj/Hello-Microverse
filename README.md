@@ -19,8 +19,9 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Install
-git clone git@github.com:selma-belhadj/Hello-Microverse.git
-cd Hello-Microverse
+- git clone [git@github.com:selma-belhadj/Hello-Microverse.git](git@github.com:selma-belhadj/Hello-Microverse.git)
+
+- cd Hello-Microverse
 
 
 ## Author
